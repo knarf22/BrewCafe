@@ -1,0 +1,29 @@
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE settings
+.vscode/
+*.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Others
+*.vs/
