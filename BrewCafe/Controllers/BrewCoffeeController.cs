@@ -25,13 +25,13 @@ namespace BrewCafe.Controllers
         {
             var now = _dateTimeProvider.Now;
 
-            // Requirement #3 – April 1st
+            //  April 1st
             if (now.Month == 4 && now.Day == 1)
             {
-                return StatusCode(418);
+                return StatusCode(StatusCodes.Status418ImATeapot);
             }
 
-            // Requirement #2 – Out of coffee
+            //  Out of coffee
             if (_coffeeCounter.IsOutOfCoffee())
             {
                 return StatusCode(503);

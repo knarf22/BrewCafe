@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\services\\implementations\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\services\\implementations\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\controllers\\brewcoffeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\controllers\\brewcoffeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\services\\implementations\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\services\\implementations\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\services\\implementations\\coffeecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\services\\implementations\\coffeecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\services\\interfaces\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\services\\interfaces\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\services\\interfaces\\icoffeecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\services\\interfaces\\icoffeecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\models\\brewcoffeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,32 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Program.cs",
-              "RelativeDocumentMoniker": "BrewCafe\\Program.cs",
-              "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Program.cs",
-              "RelativeToolTip": "BrewCafe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T13:47:36.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DateTimeProvider.cs",
               "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Implementations\\DateTimeProvider.cs",
               "RelativeDocumentMoniker": "BrewCafe\\Services\\Implementations\\DateTimeProvider.cs",
               "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Implementations\\DateTimeProvider.cs",
               "RelativeToolTip": "BrewCafe\\Services\\Implementations\\DateTimeProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T13:45:49.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CoffeeCounter.cs",
               "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Implementations\\CoffeeCounter.cs",
               "RelativeDocumentMoniker": "BrewCafe\\Services\\Implementations\\CoffeeCounter.cs",
@@ -81,41 +60,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BrewCoffeeResponse.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Models\\BrewCoffeeResponse.cs",
-              "RelativeDocumentMoniker": "BrewCafe\\Models\\BrewCoffeeResponse.cs",
-              "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Models\\BrewCoffeeResponse.cs",
-              "RelativeToolTip": "BrewCafe\\Models\\BrewCoffeeResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Program.cs",
+              "RelativeDocumentMoniker": "BrewCafe\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Program.cs",
+              "RelativeToolTip": "BrewCafe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T13:43:52.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDateTimeProvider.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Interfaces\\IDateTimeProvider.cs",
-              "RelativeDocumentMoniker": "BrewCafe\\Services\\Interfaces\\IDateTimeProvider.cs",
-              "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Interfaces\\IDateTimeProvider.cs",
-              "RelativeToolTip": "BrewCafe\\Services\\Interfaces\\IDateTimeProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T13:43:01.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICoffeeCounter.cs",
-              "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Interfaces\\ICoffeeCounter.cs",
-              "RelativeDocumentMoniker": "BrewCafe\\Services\\Interfaces\\ICoffeeCounter.cs",
-              "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Interfaces\\ICoffeeCounter.cs",
-              "RelativeToolTip": "BrewCafe\\Services\\Interfaces\\ICoffeeCounter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T13:42:25.64Z",
+              "WhenOpened": "2026-01-20T13:47:36.39Z",
               "EditorCaption": ""
             },
             {
@@ -126,9 +79,22 @@
               "RelativeDocumentMoniker": "BrewCafe\\Controllers\\BrewCoffeeController.cs",
               "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Controllers\\BrewCoffeeController.cs",
               "RelativeToolTip": "BrewCafe\\Controllers\\BrewCoffeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T13:36:59.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrewCoffeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Models\\BrewCoffeeResponse.cs",
+              "RelativeDocumentMoniker": "BrewCafe\\Models\\BrewCoffeeResponse.cs",
+              "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Models\\BrewCoffeeResponse.cs",
+              "RelativeToolTip": "BrewCafe\\Models\\BrewCoffeeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T13:43:52.677Z",
               "EditorCaption": ""
             }
           ]
