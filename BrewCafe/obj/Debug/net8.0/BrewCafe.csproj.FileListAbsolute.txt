@@ -33,3 +33,4 @@ C:\Users\gonza\source\repos\BrewCafe\BrewCafe\obj\Debug\net8.0\refint\BrewCafe.d
 C:\Users\gonza\source\repos\BrewCafe\BrewCafe\obj\Debug\net8.0\BrewCafe.pdb
 C:\Users\gonza\source\repos\BrewCafe\BrewCafe\obj\Debug\net8.0\BrewCafe.genruntimeconfig.cache
 C:\Users\gonza\source\repos\BrewCafe\BrewCafe\obj\Debug\net8.0\ref\BrewCafe.dll
+C:\Users\gonza\source\repos\BrewCafe\BrewCafe\obj\Debug\net8.0\BrewCafe.sourcelink.json
