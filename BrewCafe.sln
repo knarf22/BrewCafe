@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrewCafe", "BrewCafe\BrewCafe.csproj", "{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrewCafe.Tests", "BrewCafe.Tests\BrewCafe.Tests.csproj", "{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

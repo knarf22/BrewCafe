@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}|BrewCafe.Tests\\BrewCafe.Tests.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe.tests\\unit\\coffeecountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}|BrewCafe.Tests\\BrewCafe.Tests.csproj|solutionrelative:brewcafe.tests\\unit\\coffeecountertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}|BrewCafe.Tests\\BrewCafe.Tests.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe.tests\\integration\\brewcoffeeendpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598BCE14-BB5F-4A07-81E2-0EFAAA63455B}|BrewCafe.Tests\\BrewCafe.Tests.csproj|solutionrelative:brewcafe.tests\\integration\\brewcoffeeendpointtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\services\\implementations\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\services\\implementations\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\services\\implementations\\coffeecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\services\\implementations\\coffeecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|solutionrelative:brewcafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E179852-9C15-4DA7-9148-BB7F39E2B3E1}|BrewCafe\\BrewCafe.csproj|c:\\users\\gonza\\source\\repos\\brewcafe\\brewcafe\\models\\brewcoffeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrewCoffeeEndpointTests.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe.Tests\\Integration\\BrewCoffeeEndpointTests.cs",
+              "RelativeDocumentMoniker": "BrewCafe.Tests\\Integration\\BrewCoffeeEndpointTests.cs",
+              "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe.Tests\\Integration\\BrewCoffeeEndpointTests.cs",
+              "RelativeToolTip": "BrewCafe.Tests\\Integration\\BrewCoffeeEndpointTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:31:56.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CoffeeCounterTests.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe.Tests\\Unit\\CoffeeCounterTests.cs",
+              "RelativeDocumentMoniker": "BrewCafe.Tests\\Unit\\CoffeeCounterTests.cs",
+              "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe.Tests\\Unit\\CoffeeCounterTests.cs",
+              "RelativeToolTip": "BrewCafe.Tests\\Unit\\CoffeeCounterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T14:31:19.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DateTimeProvider.cs",
               "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Implementations\\DateTimeProvider.cs",
               "RelativeDocumentMoniker": "BrewCafe\\Services\\Implementations\\DateTimeProvider.cs",
@@ -46,8 +80,12 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CoffeeCounter.cs",
               "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Services\\Implementations\\CoffeeCounter.cs",
               "RelativeDocumentMoniker": "BrewCafe\\Services\\Implementations\\CoffeeCounter.cs",
@@ -60,20 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Program.cs",
               "RelativeDocumentMoniker": "BrewCafe\\Program.cs",
               "ToolTip": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Program.cs",
               "RelativeToolTip": "BrewCafe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T13:47:36.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BrewCoffeeController.cs",
               "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Controllers\\BrewCoffeeController.cs",
               "RelativeDocumentMoniker": "BrewCafe\\Controllers\\BrewCoffeeController.cs",
@@ -86,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BrewCoffeeResponse.cs",
               "DocumentMoniker": "C:\\Users\\gonza\\source\\repos\\BrewCafe\\BrewCafe\\Models\\BrewCoffeeResponse.cs",
               "RelativeDocumentMoniker": "BrewCafe\\Models\\BrewCoffeeResponse.cs",
